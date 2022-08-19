@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to right, rgb(160, 160, 3),aquamarine, aqua);
+    
+}
+h1{
+    color: white;
+    margin-left: 400px;
+}
+h2{
+    text-align: center;
+}
+.login{
+    position: relative;
+    top: -148px;
+    right: 20px;
+    display: inline-block;
+    background-color: rgb(127, 208, 255);
+    padding: 40px;
+    margin-left: 350px;
+    margin-top: 40px;
+    width: 300px;
+}
+.registration{
+    display: inline-block;
+    background-color: blue;
+    padding: 40px;
+    margin-top: 40px;
+    width: 300px;
+}
+input{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 7px 10px ;
+    width: 250px;
+    outline: none;
+    border: none;
+}
+.a1{
+    background-color: black;
+    color: white;
+    padding: 7px 110px 7px 110px;
+    font-size: 20px;
+}
+.b1{
+    background-color: black;
+    color: white;
+    padding: 7px 95px 7px 95px;
+    font-size: 15px;
+}
+.checkbox{
+    width: 20px;
+}
+

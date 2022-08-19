@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right, orange, orangered);
+}
+.kvadrat1{
+    position: relative;
+    top: 25px;
+    margin-top: 200px;
+    display: inline-block;
+}
+.aylana{
+    position: relative;
+    right: 40px;
+    display: inline-block;
+}
+.kvadrat2{
+    position: relative;
+    right: 52px;
+    display: inline-block;
+}
